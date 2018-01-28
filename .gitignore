@@ -1,4 +1,8 @@
 .DS_Store
 .ipynb_checkpoints/
 data/
+bottleneck_values/
+logs/
+models/
+tensorflow/
 *.pyc
